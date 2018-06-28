@@ -6,6 +6,10 @@
 
 Actual real ES6 templates. Just dynamic. 
 
+## Why would I want to make ES6 templates dynamically?
+
+Because you have a whole bunch of templates, and don't want to write a function for every possible template string. The purpose of the module is that variables are resolved later, which makes it easier to do dynamic templating. This is surprisingly tricky as `this` for TemplateStrings is a bit weird.
+
 ### Usage
 
 Load the module:
