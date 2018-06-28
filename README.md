@@ -4,7 +4,7 @@
 
 ## Simple dynamic ES6 templates
 
-Actual real ES6 templates. Just dynamic.
+Actual real ES6 templates. Just dynamic. 
 
 ### Usage
 
