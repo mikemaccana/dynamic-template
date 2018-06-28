@@ -1,5 +1,5 @@
 {
-  "name": "dynamic-template",
+  "name": "es6-dynamic-template",
   "version": "1.0.0",
   "description": "Dynamically build ES6 templates",
   "main": "index.js",
