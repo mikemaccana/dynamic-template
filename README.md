@@ -10,7 +10,7 @@ Actual real ES6 templates. Just dynamic.
 
 Load the module:
 
-	const makeTemplate = require('dynamic-template');
+	const makeTemplate = require('es6-dynamic-template');
 
 Use it (use regular quotes, not backticks, for template string):
 
