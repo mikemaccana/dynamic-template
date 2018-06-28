@@ -1,0 +1,17 @@
+{
+  "name": "dynamic-template",
+  "version": "1.0.0",
+  "description": "Dynamically build ES6 templates",
+  "main": "index.js",
+  "author": "Mike MacCana",
+	"license": "MIT",
+	"repository" : { 
+		"type" : "git", 
+		"url" : "https://github.com/mikemaccana/dynamic-template"
+  },	
+  "private": false,
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^5.2.0"
+  }
+}
