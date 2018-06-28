@@ -10,11 +10,11 @@ Actual real ES6 templates. Just dynamic.
 
 Load the module:
 
-	const makeTemplate = require('es6-dynamic-template');
+	const fillTemplate = require('es6-dynamic-template');
 
 Use it (use regular quotes, not backticks, for template string):
 
-	const greeting = makeTemplate('Hi ${firstName}', {firstName: 'Joe'});
+	const greeting = fillTemplate('Hi ${firstName}', {firstName: 'Joe'});
 	
 Returns:
 
