@@ -13,5 +13,8 @@
   "dependencies": {
     "assert": "^1.4.1",
     "mocha": "^5.2.0"
-  }
+	},
+	"scripts": {
+		"test": "mocha"
+	}
 }
