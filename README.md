@@ -30,7 +30,7 @@ Returns:
 
 ### Note
 
-As with normal strings. user input should be sanitised before use, to stop users injecting <script> tags etc.
+As with normal strings, **user input should be sanitised before use**, to stop users injecting <script> tags etc.
 
 ### Issues
 
