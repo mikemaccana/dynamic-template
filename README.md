@@ -28,10 +28,6 @@ Returns:
 
 	mocha
 
-### Note
-
-As with normal strings, **user input should be sanitised before use**, to stop users injecting <script> tags etc.
-
 ### Issues
 
 Everything works, AFAIK, if it doesn't, send a PR rather than complaining otherwise I will mock you.
