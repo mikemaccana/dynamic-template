@@ -10,7 +10,7 @@
     "url": "https://github.com/mikemaccana/dynamic-template"
   },
   "private": false,
-  "dependencies": {
+  "devDependencies": {
     "assert": "^1.4.1",
     "mocha": "^5.2.0"
   },
