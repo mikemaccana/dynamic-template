@@ -10,6 +10,10 @@ Actual real ES6 templates. Just dynamic.
 
 Because you have a whole bunch of templates, and don't want to write a function for every possible template string. The purpose of the module is that variables are resolved later, which makes it easier to do dynamic templating. This is surprisingly tricky as `this` for TemplateStrings is a bit weird.
 
+### Changes since version 1
+
+Version 1 used `eval`, requiring you to sanitise user input before use. While that's a commopn expectation for web development, the new version uses a regex based approach while keeping the same API.
+
 ### Usage
 
 Load the module:
