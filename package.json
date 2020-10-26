@@ -1,6 +1,6 @@
 {
   "name": "es6-dynamic-template",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Dynamically build ES6 templates",
   "main": "index.js",
   "author": "Mike MacCana",
@@ -12,6 +12,7 @@
   "private": false,
   "devDependencies": {
     "assert": "^1.4.1",
+    "esm": "^3.2.25",
     "mocha": "^5.2.0"
   },
   "scripts": {
